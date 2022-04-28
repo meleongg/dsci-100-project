@@ -2,7 +2,7 @@
 
 ## Purpose
 
-For my DSCI 100 project, I chose to investigate the main factors behind heart disease using the R programming language. In my report, I aim to answer the question: "Given values for the age, resting_blood_pressure, cholesterol, ST_depression, and max_heart_rate predictors, what would be the heart disease diagnosis?" using a K-Nearest Neighbors (KNN) classification algorithm on the [Processed Cleveland Heart Disease Dataset] (https://archive.ics.uci.edu/ml/datasets/Heart+Disease). 
+For my DSCI 100 project, I chose to investigate the main factors behind heart disease using the R programming language. In my report, I aim to answer the question: "Given values for the age, resting_blood_pressure, cholesterol, ST_depression, and max_heart_rate predictors, what would be the heart disease diagnosis?" using a K-Nearest Neighbors (KNN) classification algorithm on the [Processed Cleveland Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). 
 
 ## What I learned
 - how to iterate through multiple cycles of the data analysis process
