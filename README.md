@@ -7,5 +7,5 @@ For my DSCI 100 project, I chose to investigate the main factors behind heart di
 ## What I learned
 - how to iterate through multiple cycles of the data analysis process
   - including data wrangling, data visualization, data analysis, etc. 
-- how to perform K-Nearest-Neighbor Classification using R
-- how to apply a K-Nearest-Neighbor Classification model on a realistic problem and interpreting the results
+- how to perform K-Nearest Neighbor Classification using R
+- how to apply a K-Nearest Neighbor Classification model on a realistic problem and interpreting the results
